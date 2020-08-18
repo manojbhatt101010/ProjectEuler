@@ -1,2 +1,2 @@
 # ProjectEuler
-Project Euler solutions in Java
+Project Euler solutions in Java solved by me
